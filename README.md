@@ -1,1 +1,1 @@
-Basic Social Media App like Instagram
+Basic Social Media App
